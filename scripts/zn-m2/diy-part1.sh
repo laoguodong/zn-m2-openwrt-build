@@ -13,6 +13,4 @@
 # Uncomment a feed source
 #echo 'src-git custom https://github.com/xiaorouji/openwrt-passwall.git;packages' >>feeds.conf.default
 git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
-git clone https://github.com/sbwml/luci-app-alist.git package/luci-app-alist
-git clone https://github.com/ZeaKyX/luci-app-speedtest-web.git package/luci-app-speedtest-web
-git clone https://github.com/tty228/luci-app-wechatpush.git package/luci-app-wechatpush
+git clone https://github.com/sbwml/luci-app-alist package/alist
